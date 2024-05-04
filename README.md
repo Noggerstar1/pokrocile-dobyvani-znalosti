@@ -5,6 +5,9 @@ Python projekt pro předmět dobývání znalostí z databází
 - Cleverminer
 - Pandas
 
-## Analýza
-- Závislost pohlaví na počtu zranění při nehodách - https://github.com/Noggerstar1/pokrocile-dobyvani-znalosti/blob/main/src/personalInjuryFactors/injuryByGender.py
-- Závislost faktu, zda byl člověk připásaný na počtu zranění při nehodách - https://github.com/Noggerstar1/pokrocile-dobyvani-znalosti/blob/main/src/personalInjuryFactors/injuryByBelts.py
+## Instalace
+- python -m venv venv
+- venv\Scripts\activate
+- pip install -r requirements.txt
+- move to the directory of python file
+- python nameOfFile.py
